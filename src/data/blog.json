@@ -1,0 +1,188 @@
+{
+  "page": {
+    "seoTitle": "Digital Growth Blog",
+    "seoDescription": "Practical articles about website development, SEO, performance and digital growth for Indian businesses.",
+    "eyebrow": "Insights",
+    "title": "Clear guidance for better digital decisions.",
+    "description": "Research-led articles for business owners planning websites, search strategies and technology investments."
+  },
+  "posts": [
+    {
+      "slug": "how-much-does-a-website-cost-in-india",
+      "title": "How Much Does a Website Cost in India?",
+      "seoTitle": "Website Development Cost in India: A Practical Guide",
+      "description": "A practical guide to website budgets, cost drivers and questions to ask before requesting proposals.",
+      "image": "/blog/website-cost-india.png",
+      "imageAlt": "Website design and budget planning workspace with a laptop and analytics",
+      "keywords": [
+        "website cost in India",
+        "website development pricing",
+        "business website budget"
+      ],
+      "category": "Website Development",
+      "author": "CodingPara editorial team",
+      "published": "2026-07-03",
+      "updated": "2026-07-03",
+      "minutes": 8,
+      "introduction": "Website pricing depends on what the website must achieve, how much original content it needs and which systems it must connect to. A useful estimate starts with scope rather than a fixed package price.",
+      "sections": [
+        {
+          "heading": "Start with the business goal",
+          "paragraphs": [
+            "Define the action visitors should take and the outcome the business expects. A brochure site, lead-generation website, online store and customer portal require very different levels of planning and engineering.",
+            "Clear goals help agencies recommend only the pages, journeys and integrations that support the investment."
+          ]
+        },
+        {
+          "heading": "Understand the real cost drivers",
+          "paragraphs": [
+            "Design depth, page count, copywriting, product data, payment flows, third-party integrations and migration risk all affect the final scope.",
+            "Internal review cycles and incomplete content can also increase delivery time, so ownership and approvals should be agreed before work begins."
+          ]
+        },
+        {
+          "heading": "Prioritise foundations before features",
+          "paragraphs": [
+            "Responsive design, accessibility, performance, analytics and technical SEO usually create more long-term value than decorative effects.",
+            "Launch with a strong foundation and add lower-priority features after real customer behaviour can be measured."
+          ]
+        },
+        {
+          "heading": "Plan ownership and ongoing improvement",
+          "paragraphs": [
+            "Confirm who owns the domain, hosting, source code, design files and analytics accounts. The proposal should also explain maintenance, security updates and support after launch.",
+            "Reserve budget for useful content and measured improvements so the website continues to support the business."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is there one standard website price?",
+          "a": "No. Price depends on scope, content, design, integrations and the level of custom development required."
+        },
+        {
+          "q": "How should I compare website proposals?",
+          "a": "Compare assumptions, deliverables, exclusions, ownership, testing and post-launch support—not only the total price."
+        }
+      ]
+    },
+    {
+      "slug": "seo-checklist-for-small-businesses",
+      "title": "SEO Checklist for Small Businesses",
+      "seoTitle": "Small Business SEO Checklist: Technical, Local and Content",
+      "description": "Build a sound search foundation with a prioritised checklist covering technical, local and content SEO.",
+      "image": "/blog/small-business-seo-checklist.png",
+      "imageAlt": "SEO analytics dashboard with search, local map and checklist elements",
+      "keywords": [
+        "small business SEO checklist",
+        "local SEO India",
+        "technical SEO basics"
+      ],
+      "category": "SEO",
+      "author": "CodingPara editorial team",
+      "published": "2026-06-18",
+      "updated": "2026-06-18",
+      "minutes": 7,
+      "introduction": "Small-business SEO works best when the essentials are handled consistently. Use this checklist to fix discoverability, strengthen local relevance and publish content that answers real customer questions.",
+      "sections": [
+        {
+          "heading": "Make every important page discoverable",
+          "paragraphs": [
+            "Ensure search engines can crawl the site, important pages return a successful status and the XML sitemap contains only canonical URLs.",
+            "Connect Google Search Console and review indexing reports regularly instead of assuming every page appears in search."
+          ]
+        },
+        {
+          "heading": "Optimise pages around search intent",
+          "paragraphs": [
+            "Give each page one clear purpose. Write a descriptive title, a useful main heading and copy that directly answers the need behind the search.",
+            "Use internal links to connect related services, locations and educational articles without forcing keywords into every sentence."
+          ]
+        },
+        {
+          "heading": "Strengthen local search signals",
+          "paragraphs": [
+            "Complete the Google Business Profile with accurate categories, hours, services, photos and contact details. Keep the business name, address and phone details consistent across trusted listings.",
+            "Ask genuine customers for reviews and respond helpfully; never manufacture ratings."
+          ]
+        },
+        {
+          "heading": "Measure enquiries, not rankings alone",
+          "paragraphs": [
+            "Track calls, forms and other meaningful actions alongside organic traffic. Rankings can indicate visibility, but qualified enquiries reveal whether the strategy supports the business.",
+            "Review results by landing page and search theme, then improve pages that attract attention without generating action."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How quickly can a small business see SEO results?",
+          "a": "Technical changes may be detected quickly, while meaningful growth in competitive searches commonly takes several months."
+        },
+        {
+          "q": "Does every small business need a blog?",
+          "a": "No. Publish only when articles answer valuable customer questions that service or product pages cannot cover well."
+        }
+      ]
+    },
+    {
+      "slug": "react-vs-wordpress-business-websites",
+      "title": "React vs WordPress for Business Websites",
+      "seoTitle": "React vs WordPress: Which Is Better for a Business Website?",
+      "description": "Compare editing, performance, flexibility and ownership before choosing your next website platform.",
+      "image": "/blog/react-vs-wordpress.png",
+      "imageAlt": "Balanced comparison of code components and a visual content editor",
+      "keywords": [
+        "React vs WordPress",
+        "business website platform",
+        "WordPress or React"
+      ],
+      "category": "Technology",
+      "author": "CodingPara editorial team",
+      "published": "2026-05-22",
+      "updated": "2026-05-22",
+      "minutes": 9,
+      "introduction": "React and WordPress solve different problems. The better choice depends on who updates the site, how custom the experience must be and what technical support is available after launch.",
+      "sections": [
+        {
+          "heading": "Choose around the publishing workflow",
+          "paragraphs": [
+            "WordPress provides a familiar content-management experience and can suit teams that publish frequently without developer support.",
+            "A React or Next.js site can also use a content system, but that workflow must be selected and integrated intentionally."
+          ]
+        },
+        {
+          "heading": "Compare flexibility and complexity",
+          "paragraphs": [
+            "React is well suited to highly interactive interfaces, custom applications and experiences that must integrate deeply with other services.",
+            "WordPress can deliver many standard business and commerce requirements efficiently, although excessive plugins and page-builder layers can make maintenance harder."
+          ]
+        },
+        {
+          "heading": "Treat performance as an implementation outcome",
+          "paragraphs": [
+            "Neither platform is automatically fast. Image handling, scripts, hosting, caching and engineering decisions determine the customer experience.",
+            "Set measurable performance requirements and test representative pages on real mobile connections."
+          ]
+        },
+        {
+          "heading": "Plan long-term ownership",
+          "paragraphs": [
+            "Consider updates, security, hosting, developer availability and content ownership over several years—not only launch speed.",
+            "Choose the simplest platform that reliably supports the required customer journey and your team's ability to operate it."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is React always faster than WordPress?",
+          "a": "No. Either can be fast or slow depending on architecture, hosting, media, scripts and implementation quality."
+        },
+        {
+          "q": "Can WordPress support a custom design?",
+          "a": "Yes. A custom theme and well-planned blocks can provide a distinctive design without relying on a heavy page builder."
+        }
+      ]
+    }
+  ]
+}
